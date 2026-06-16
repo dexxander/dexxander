@@ -168,15 +168,3 @@
 
 </div>
 
----
-
-
-## 🚀 "Turning Ideas Into Intelligent Solutions"
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-### Thanks for Visiting! ⭐
-
-If you like my projects, consider giving them a ⭐
-
-</div>
