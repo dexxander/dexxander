@@ -12,8 +12,7 @@
 ### 💻 Full-Stack Developer
 ### 🚀 Building Real-World AI Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;TensorFlow+%7C+MediaPipe+%7C+OpenCV;OpenGL+Graphics+Programmer;Building+Technology+That+Solves+Real+Problems;Always+Learning+Something+New+🚀" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;OpenGL+Graphics+Programmer" />
 </div>
 
 ---
@@ -142,7 +141,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
