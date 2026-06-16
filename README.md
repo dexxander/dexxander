@@ -85,91 +85,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🚗 SafeDrive AI
-### AI-Powered Driver Monitoring & Safety System
-
-An intelligent AI system that enhances road safety by monitoring driver behaviour in real-time using computer vision.
-
-### Features
-✅ Drowsiness Detection
-
-✅ Real-Time Face Monitoring
-
-✅ Driver Alert System
-
-✅ Computer Vision-Based Analysis
-
-✅ AI-Powered Safety Assistance
-
-🔗 Repository:
-
-https://github.com/dexxander/DexX-SafeDriveAI
-
----
-
-## 😴 Drowsiness Detection using MediaPipe FaceMesh
-
-A real-time fatigue detection system using facial landmarks and eye movement analysis.
-
-### Features
-
-✅ MediaPipe FaceMesh
-
-✅ Eye Aspect Ratio Analysis
-
-✅ Real-Time Webcam Detection
-
-✅ Driver Fatigue Monitoring
-
-🔗 Repository:
-
-https://github.com/dexxander/drowsiness-detection-mediapipe-facemesh
-
----
-
-## 🐟 Fish Detection, Fish Species & Fish Disease Recognition
-
-A TensorFlow-powered computer vision system designed for aquaculture and fisheries applications.
-
-### Features
-
-✅ Fish Detection
-
-✅ Species Classification
-
-✅ Fish Disease Identification
-
-✅ Deep Learning Models
-
-✅ TensorFlow Implementation
-
-🔗 Repository:
-
-https://github.com/dexxander/dexter-fish-ml
-
----
-
-## 🌐 Personal Portfolio Website
-
-My personal portfolio showcasing projects, technical skills, achievements and development journey.
-
-### Features
-
-✅ Responsive Design
-
-✅ Modern UI/UX
-
-✅ Project Showcase
-
-✅ Professional Portfolio
-
-🔗 Repository:
-
-https://github.com/dexxander/Personal-Portfolio
-
----
 
 # 🏆 Academic & Personal Highlights
 
@@ -231,57 +147,6 @@ https://github.com/dexxander/Personal-Portfolio
 
 ---
 
-# 🚀 Current Focus
-
-### What I'm Working On
-
-🚗 SafeDrive AI
-
-🤖 Machine Learning Applications
-
-👁️ Computer Vision Projects
-
-🐟 AI for Fisheries & Aquaculture
-
-🌐 Full-Stack Development
-
-🎮 OpenGL Graphics Programming
-
-📊 Data Analytics & Visualization
-
----
-
-# 💼 Open To Opportunities
-
-### Interested In
-
-🎯 AI Engineer Roles
-
-🎯 Machine Learning Engineer Roles
-
-🎯 Software Engineering Internships
-
-🎯 Computer Vision Projects
-
-🎯 Research Collaborations
-
-🎯 Graduate Opportunities
-
----
-
-# ⚡ Fun Facts
-
-🤖 I love building AI systems that solve real-world problems.
-
-🐟 I've developed machine learning solutions for fish detection, species classification and disease recognition.
-
-🚗 I'm currently building AI-powered driver safety systems.
-
-🎮 I enjoy creating 3D animations and graphics using OpenGL.
-
-🌌 Fascinated by Artificial Intelligence, Computer Vision and emerging technologies.
-
----
 
 # 📫 Connect With Me
 
@@ -305,17 +170,6 @@ https://github.com/dexxander/Personal-Portfolio
 
 ---
 
-# 🎧 Currently Coding To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 "Turning Ideas Into Intelligent Solutions"
 
