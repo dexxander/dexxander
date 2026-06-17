@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Dexter Oliver Robilin
 
-### 🎓 Software Engineering Student @ UMS
+### 🎓 Currently Pursuing My Software Engineering Degree
 ### 🤖 AI & Machine Learning Developer
 ### 👁️ Computer Vision Enthusiast
 ### 💻 Full-Stack Developer
