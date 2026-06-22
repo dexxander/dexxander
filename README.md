@@ -136,21 +136,23 @@ TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Ma
 
 
 
-# 🏆 Academic & Personal Highlights
+# 🏆 Highlights
 
-🎓 Software Engineering Student
+<div align="center">
 
-🤖 Developing AI & Machine Learning Projects
+![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
 
-📊 Experience with Data Analytics using R
+![](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Projects-purple?style=for-the-badge)
 
-🐟 AI Applications in Fisheries & Aquaculture
+![](https://img.shields.io/badge/Computer%20Vision-Development-green?style=for-the-badge)
 
-🚗 Computer Vision Applications for Driver Safety
+![](https://img.shields.io/badge/Data%20Analytics-R-orange?style=for-the-badge)
 
-🎮 OpenGL 3D Animation Development
+![](https://img.shields.io/badge/OpenGL-3D%20Graphics-red?style=for-the-badge)
 
-🌐 Web Development & Portfolio Design
+![](https://img.shields.io/badge/Full--Stack-Web%20Development-blueviolet?style=for-the-badge)
+
+</div>
 
 ---
 
