@@ -44,7 +44,7 @@
 - Computer Vision Systems
 
 🎯 Career Goal:
-> To become an AI Engineer / Machine Learning Engineer creating innovative solutions that improve everyday life.
+> To become an AI Engineer / Machine Learning Engineer creating innovative solutions that improve everyday life.But my main goal is to become a software engineer
 
 ---
 
