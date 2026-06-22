@@ -19,32 +19,89 @@
 
 # 🌌 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div align="center">
 
-🎓 Currently pursuing a degree in **Software Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer;Building+Technology+That+Makes+an+Impact" />
 
-💡 Passionate about developing intelligent systems using **Artificial Intelligence and Machine Learning**
+</div>
 
-👁️ Interested in:
-- Computer Vision
-- Deep Learning
-- Artificial Intelligence
-- Data Analytics
-- Software Engineering
-- Web Development
-- OpenGL Graphics Programming
+<br>
 
-🚀 I enjoy building projects that combine software engineering with real-world impact.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🌱 Currently learning:
-- Advanced Machine Learning
-- Deep Learning Architectures
-- Cloud Deployment
-- Full Stack Development
-- Computer Vision Systems
+### 👨‍💻 Who Am I?
 
-🎯 Career Goal:
-> To become an AI Engineer / Machine Learning Engineer creating innovative solutions that improve everyday life.But my main goal is to become a software engineer
+🎓 Software Engineering student passionate about designing and developing intelligent software systems.
+
+🤖 Focused on Artificial Intelligence, Machine Learning, and Computer Vision applications that solve real-world problems.
+
+💡 I enjoy transforming ideas into practical solutions through software engineering, data-driven technologies, and modern development practices.
+
+🚀 Constantly exploring emerging technologies and building projects that combine innovation, usability, and impact.
+
+<br>
+
+### 🎯 Areas of Interest
+
+<div align="left">
+
+🔹 Artificial Intelligence
+
+🔹 Machine Learning
+
+🔹 Computer Vision
+
+🔹 Deep Learning
+
+🔹 Data Analytics
+
+🔹 Full-Stack Development
+
+🔹 Software Engineering
+
+🔹 OpenGL & Computer Graphics
+
+</div>
+
+<br>
+
+### 🌱 Currently Learning
+
+<div align="left">
+
+📚 Advanced Machine Learning
+
+📚 Deep Learning Architectures
+
+📚 Cloud Computing & Deployment
+
+📚 Full-Stack Application Development
+
+📚 Computer Vision Systems
+
+📚 AI-Powered Software Solutions
+
+</div>
+
+<br>
+
+### 🏆 Professional Goals
+
+> To become a highly skilled Software Engineer with expertise in Artificial Intelligence and Machine Learning, building innovative and impactful solutions that address real-world challenges.
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-purple?style=for-the-badge)
+
+![](https://img.shields.io/badge/Machine%20Learning-Developer-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/Computer%20Vision-Engineer-green?style=for-the-badge)
+
+</div>
 
 ---
 
