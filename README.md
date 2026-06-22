@@ -6,16 +6,15 @@
 
 # 👋 Hi, I'm Dexter Oliver Robilin
 
-### 🎓 Currently Pursuing My Software Engineering Degree
+### 🎓 Software Engineering Student
+
 ### 🤖 AI & Machine Learning Developer
-### 👁️ Computer Vision Enthusiast
-### 💻 Full-Stack Developer
-### 🚀 Building Real-World AI Solutions
+
+### 🚀 Turning Ideas into Real-World Software Solutions
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;OpenGL+Graphics+Programmer" />
-</div>
 
----
+</div>
 
 # 🌌 About Me
 
