@@ -59,21 +59,18 @@
 ## 🤖 AI & Machine Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="48" height="48" alt="MediaPipe"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+
+<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="50" height="50"/>
+
 </div>
 
 <div align="center">
 
-| Technology | Description |
-|------------|-------------|
-| TensorFlow | Deep Learning & Machine Learning |
-| OpenCV | Computer Vision |
-| MediaPipe | Real-Time AI Perception |
-| Computer Vision | Image & Video Analysis |
-| Deep Learning | Neural Networks |
-| Machine Learning | Predictive Intelligence |
+TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Machine Learning
 
 </div>
 
