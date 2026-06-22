@@ -21,49 +21,33 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer;Building+Technology+That+Makes+an+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Student-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Developer-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-green?style=for-the-badge" />
 
 </div>
 
 <br>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨‍💻 Who Am I?
+### 👨‍💻 About Me
 
-🎓 Software Engineering student passionate about designing and developing intelligent software systems.
+- 🎓 Software Engineering student passionate about building intelligent software solutions.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
+- 💻 Experienced in Full-Stack Development, Data Analytics, and OpenGL Graphics Programming.
+- 🚀 Building projects that combine innovation, technology, and real-world impact.
+- 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
 
-🤖 Focused on Artificial Intelligence, Machine Learning, and Computer Vision applications that solve real-world problems.
+### 🎯 Career Goal
 
-💡 I enjoy transforming ideas into practical solutions through software engineering, data-driven technologies, and modern development practices.
+> Become a Software Engineer specializing in AI and Machine Learning, developing technology that solves real-world problems.
 
-🚀 Constantly exploring emerging technologies and building projects that combine innovation, usability, and impact.
-
-<br>
-
-### 🎯 Areas of Interest
-
-<div align="left">
-
-🔹 Artificial Intelligence
-
-🔹 Machine Learning
-
-🔹 Computer Vision
-
-🔹 Deep Learning
-
-🔹 Data Analytics
-
-🔹 Full-Stack Development
-
-🔹 Software Engineering
-
-🔹 OpenGL & Computer Graphics
-
-</div>
-
-<br>
+---
 
 ### 🌱 Currently Learning
 
