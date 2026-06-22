@@ -52,30 +52,42 @@
 
 ## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r" />
+</div>
 
 ## 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
+  <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="48" height="48" alt="MediaPipe"/>
+</div>
 
-- TensorFlow
-- MediaPipe
-- OpenCV
-- Computer Vision
-- Deep Learning
-- Machine Learning
+<div align="center">
+
+| Technology | Description |
+|------------|-------------|
+| TensorFlow | Deep Learning & Machine Learning |
+| OpenCV | Computer Vision |
+| MediaPipe | Real-Time AI Perception |
+| Computer Vision | Image & Video Analysis |
+| Deep Learning | Neural Networks |
+| Machine Learning | Predictive Intelligence |
+
+</div>
 
 ## 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</div>
 
 ## 🎮 Graphics Programming
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</div>
 
 - OpenGL
 - GLUT
