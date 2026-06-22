@@ -12,8 +12,6 @@
 
 ### 🚀 Turning Ideas into Real-World Software Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;OpenGL+Graphics+Programmer" />
-
 </div>
 
 # 🌌 About Me
