@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!--      DEXTER OLIVER ROBILIN | GITHUB PROFILE README     -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # 👋 Hi, I'm Dexter Oliver Robilin
