@@ -127,7 +127,6 @@ TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Ma
 </table>
 
 </div>
----
 
 # 👀 Profile Views
 
