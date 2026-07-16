@@ -1,100 +1,188 @@
 <div align="center">
 
-<img src="./assets/particles-banner.svg" width="100%" alt="" />
+# 👋 Hi, I'm Dexter Oliver Robilin
 
-# Dexter Oliver Robilin
+### 🎓 Software Engineering Student
 
-### Software Engineering Student · AI & Machine Learning Developer
+### 🤖 AI & Machine Learning Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI-powered+software+solutions;Computer+Vision+%26+Deep+Learning;Full-Stack+Development" />
+### 🚀 Turning Ideas into Real-World Software Solutions
 
 </div>
 
-<br>
-
-## About
-
-Software Engineering student focused on building intelligent, real-world software — from computer vision systems to full-stack web applications. Currently exploring deep learning architectures and cloud deployment.
-
-**Goal:** Become a Software Engineer specializing in AI and Machine Learning, building technology that solves real problems.
-
-<br>
-
-## Tech Stack
-
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r" height="32"/> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="32"/> &nbsp;·&nbsp; MediaPipe · YOLO · OpenCV · Computer Vision · Deep Learning |
-| **Web & Backend** | <img src="https://skillicons.dev/icons?i=react,supabase,firebase,git,github" height="32"/> |
-| **Graphics** | OpenGL · GLUT · 3D Animation |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode" height="32"/> |
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚗 SafeDrive AI**
-Real-time driver drowsiness detection system — tracks eye closure, yawning, and head pose via facial landmark tracking, then logs and maps incidents.
-`MediaPipe Face Mesh` `Firebase` `OpenStreetMap` `JavaScript`
-[Repo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**🤟 Sign Language Translator**
-Real-time sign language recognition and translation using hand landmark tracking.
-`MediaPipe` `Python`
-[Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🐟 Fish Detection & Classification**
-Object detection and species classification pipeline combining a custom CNN with YOLO for real-time inference.
-`TensorFlow` `YOLO` `Python`
-[Repo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**🕌 Masjid Unggun Management System**
-Web-based management system for mosque administration — records, scheduling, and community data.
-`React` `JavaScript` `Supabase`
-[Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 OpenGL 2D/3D Animation**
-Computer graphics project exploring 2D and 3D animation using OpenGL primitives and transformations.
-`C++` `OpenGL` `GLUT`
-[Repo](#)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Activity
+# 🌌 About Me
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxander&theme=tokyo-night&hide_border=true" width="48%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-Student-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Developer-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-green?style=for-the-badge" />
 
 </div>
 
 <br>
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👨‍💻 About Me
+
+- 🎓 Software Engineering student passionate about building intelligent software solutions.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
+- 💻 Experienced in Full-Stack Development, Data Analytics, and OpenGL Graphics Programming.
+- 🚀 Building projects that combine innovation, technology, and real-world impact.
+- 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
+
+### 🎯 Career Goal
+
+> Become a Software Engineer specializing in AI and Machine Learning, developing technology that solves real-world problems.
+
+---
+
+### 🌱 Currently Learning
+
+<div align="left">
+
+📚 Advanced Machine Learning
+
+📚 Deep Learning Architectures
+
+📚 Cloud Computing & Deployment
+
+📚 Full-Stack Application Development
+
+📚 Computer Vision Systems
+
+📚 AI-Powered Software Solutions
+
+</div>
+
+<br>
+
+### 🏆 Professional Goals
+
+> To become a highly skilled Software Engineer with expertise in Artificial Intelligence and Machine Learning, building innovative and impactful solutions that address real-world challenges.
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-purple?style=for-the-badge)
+
+![](https://img.shields.io/badge/Machine%20Learning-Developer-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/Computer%20Vision-Engineer-green?style=for-the-badge)
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r" />
+</div>
+
+## 🤖 AI & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+
+<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="50" height="50"/>
+
+</div>
+
+<div align="center">
+
+TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Machine Learning
+
+</div>
+
+## 🌐 Web Development
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</div>
+
+## 🎮 Graphics Programming
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</div>
+
+- OpenGL
+- GLUT
+- 3D Animation
+- Computer Graphics
+
+---
+
+
+
+# 🏆 Highlights
+
+<div align="center">
+
+![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Projects-purple?style=for-the-badge)
+
+![](https://img.shields.io/badge/Computer%20Vision-Development-green?style=for-the-badge)
+
+![](https://img.shields.io/badge/Data%20Analytics-R-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/OpenGL-3D%20Graphics-red?style=for-the-badge)
+
+![](https://img.shields.io/badge/Full--Stack-Web%20Development-blueviolet?style=for-the-badge)
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxander&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
