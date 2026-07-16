@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/particles-banner.svg" width="100%" alt="" />
+
 # Dexter Oliver Robilin
 
 ### Software Engineering Student · AI & Machine Learning Developer
@@ -96,15 +98,3 @@ Computer graphics project exploring 2D and 3D animation using OpenGL primitives 
 </div>
 
 <br>
-
-## Connect
-
-<div align="center">
-
-[LinkedIn](#) &nbsp;·&nbsp; [Email](#) &nbsp;·&nbsp; [Portfolio](#)
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
