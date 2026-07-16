@@ -38,26 +38,6 @@
 
 ---
 
-### 🏆 Professional Goals
-
-> To become a highly skilled Software Engineer with expertise in Artificial Intelligence and Machine Learning, building innovative and impactful solutions that address real-world challenges.
-
-<br>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
-
-![](https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-purple?style=for-the-badge)
-
-![](https://img.shields.io/badge/Machine%20Learning-Developer-orange?style=for-the-badge)
-
-![](https://img.shields.io/badge/Computer%20Vision-Engineer-green?style=for-the-badge)
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ## 💻 Languages
