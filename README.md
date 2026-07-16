@@ -83,33 +83,50 @@ TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Ma
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexxander&theme=github_dark" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dexxander&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
 ---
 
 # 👀 Profile Views
