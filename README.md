@@ -36,31 +36,7 @@
 - 🚀 Building projects that combine innovation, technology, and real-world impact.
 - 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
 
-### 🎯 Career Goal
-
-> Become a Software Engineer specializing in AI and Machine Learning, developing technology that solves real-world problems.
-
 ---
-
-### 🌱 Currently Learning
-
-<div align="left">
-
-📚 Advanced Machine Learning
-
-📚 Deep Learning Architectures
-
-📚 Cloud Computing & Deployment
-
-📚 Full-Stack Application Development
-
-📚 Computer Vision Systems
-
-📚 AI-Powered Software Solutions
-
-</div>
-
-<br>
 
 ### 🏆 Professional Goals
 
@@ -124,28 +100,6 @@ TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Ma
 - GLUT
 - 3D Animation
 - Computer Graphics
-
----
-
-
-
-# 🏆 Highlights
-
-<div align="center">
-
-![](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=for-the-badge)
-
-![](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Projects-purple?style=for-the-badge)
-
-![](https://img.shields.io/badge/Computer%20Vision-Development-green?style=for-the-badge)
-
-![](https://img.shields.io/badge/Data%20Analytics-R-orange?style=for-the-badge)
-
-![](https://img.shields.io/badge/OpenGL-3D%20Graphics-red?style=for-the-badge)
-
-![](https://img.shields.io/badge/Full--Stack-Web%20Development-blueviolet?style=for-the-badge)
-
-</div>
 
 ---
 
