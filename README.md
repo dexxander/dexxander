@@ -40,46 +40,76 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+<table>
+<tr>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r" />
-</div>
+<td width="50%" valign="top">
 
-## 🤖 AI & Machine Learning
+### 💻 Languages
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,js,php,html,css,r" />
+</p>
 
+<p align="center">
+Python • C++ • Kotlin • JavaScript • PHP • HTML • CSS • R
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="48"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+<p align="center">
+TensorFlow • PyTorch • OpenCV • MediaPipe • Computer Vision • Deep Learning
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="50" height="50"/>
+</td>
 
-</div>
+</tr>
 
-<div align="center">
+<tr>
 
-TensorFlow • OpenCV • MediaPipe • Computer Vision • Deep Learning • Machine Learning
+<td width="50%" valign="top">
 
-</div>
+### 🌐 Web & Backend
 
-## 🌐 Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
-</div>
+<p align="center">
+React • Node.js • Firebase • Supabase
+</p>
 
-## 🎮 Graphics Programming
+</td>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</div>
+<td width="50%" valign="top">
 
-- OpenGL
-- GLUT
-- 3D Animation
-- Computer Graphics
+### ⚙️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio" />
+</p>
+
+<p align="center">
+Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
