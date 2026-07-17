@@ -118,45 +118,54 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexxander&theme=github_dark" width="100%"/>
 
 </td>
+
 <td width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=github_dark" width="100%"/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=github_dark" width="100%"/>
 
 </td>
+
 </tr>
 
 <tr>
-<td colspan="2">
 
-<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true" width="100%"/>
+<td width="50%">
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-<img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dexxander/dexxander/main/github-metrics/habits-charts.svg" width="100%"/>
 
 </td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/dexxander/dexxander/main/github-metrics/habits-facts.svg" width="100%"/>
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
+
+---
 
 # 👀 Profile Views
 
@@ -165,4 +174,3 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 <img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
