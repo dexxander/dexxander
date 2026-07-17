@@ -142,14 +142,6 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 <tr>
 <td colspan="2">
 
-<img src="https://streak-stats.demolab.com?user=dexxander&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
 <img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </td>
