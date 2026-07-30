@@ -79,16 +79,14 @@ TensorFlow • PyTorch • OpenCV • MediaPipe • Computer Vision • Deep Lea
 
 <tr>
 
-<td width="50%" valign="top">
-
 ### 🌐 Web & Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase,laravel" />
 </p>
 
 <p align="center">
-React • Node.js • Firebase • Supabase
+React • Node.js • Laravel • Firebase • Supabase
 </p>
 
 </td>
