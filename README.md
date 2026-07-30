@@ -79,14 +79,16 @@ TensorFlow • PyTorch • OpenCV • MediaPipe • Computer Vision • Deep Lea
 
 <tr>
 
+<td width="50%" valign="top">
+
 ### 🌐 Web & Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase,laravel" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase" />
 </p>
 
 <p align="center">
-React • Node.js • Laravel • Firebase • Supabase
+React • Node.js • Firebase • Supabase
 </p>
 
 </td>
@@ -155,4 +157,3 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 <img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
