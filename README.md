@@ -35,28 +35,36 @@
 # 💼 Currently Working At
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,100:6366F1&height=110&section=header&text=DAICOE&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Digital%20and%20Artificial%20Intelligence%20Centre%20of%20Excellence&descAlignY=68&descSize=14&animation=twinkling" width="100%"/>
+
+<br>
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td align="center" width="50%" valign="top">
 
-<h3>🏢 Digital and Artificial Intelligence Centre of Excellence</h3>
-<p><b>DAICOE</b></p>
-<img src="https://img.shields.io/badge/Role-Web%20Developer%20%2F%20Software%20Engineer-A855F7?style=for-the-badge" /><br>
-<img src="https://img.shields.io/badge/Status-Part--Time-22c55e?style=for-the-badge" />
+<h3 align="center">🧩 Role & Status</h3>
+
+<img src="https://img.shields.io/badge/Web%20Developer%20%2F%20Software%20Engineer-A855F7?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Part--Time-22c55e?style=for-the-badge" />
 
 </td>
-<td width="40%" valign="top">
+<td align="center" width="50%" valign="top">
 
-<h3 align="center">⚡ Focus</h3>
-<p align="center">
-Web Development<br>
-Software Engineering<br>
-Applied AI Solutions
-</p>
+<h3 align="center">⚡ Focus Areas</h3>
+
+<img src="https://img.shields.io/badge/Web%20Development-6366F1?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Software%20Engineering-6366F1?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Applied%20AI%20Solutions-6366F1?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
