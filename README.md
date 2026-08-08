@@ -127,30 +127,18 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 </table>
 
 ---
-
 # 📈 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexxander&theme=github_dark" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=github_dark" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=github_dark" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</td>
-</tr>
-</table>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=holi)
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=holi) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexxander&theme=holi)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dexxander&theme=holi&utcOffset=8)
+
+![Contribution Snake](https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 # 👀 Profile Views
