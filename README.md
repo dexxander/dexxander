@@ -26,7 +26,6 @@
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student passionate about building intelligent software solutions.
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
-- 💻 Experienced in Full-Stack Development, Data Analytics, and OpenGL Graphics Programming.
 - 🚀 Building projects that combine innovation, technology, and real-world impact.
 - 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
 
