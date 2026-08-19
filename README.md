@@ -133,9 +133,6 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=holi)
 
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=holi) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexxander&theme=holi)
-
-![Contribution Snake](https://raw.githubusercontent.com/dexxander/dexxander/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 # 👀 Profile Views
