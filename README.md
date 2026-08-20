@@ -35,29 +35,36 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A855F7,100:6366F1&height=110&section=header&text=DAICOE&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Digital%20and%20Artificial%20Intelligence%20Centre%20of%20Excellence&descAlignY=68&descSize=14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=130&section=header&text=DAICOE&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Digital%20and%20Artificial%20Intelligence%20Centre%20of%20Excellence&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Web+Developer;Software+Engineer;Part-Time+%40+DAICOE;Applied+AI+Solutions" />
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3 align="center">🧩 Role & Status</h3>
+<h4 align="center">🧩 Role</h4>
 
 <img src="https://img.shields.io/badge/Web%20Developer%20%2F%20Software%20Engineer-A855F7?style=for-the-badge" />
-<br><br>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h4 align="center">🟢 Status</h4>
+
 <img src="https://img.shields.io/badge/Part--Time-22c55e?style=for-the-badge" />
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="34%" valign="top">
 
-<h3 align="center">⚡ Focus Areas</h3>
+<h4 align="center">⚡ Focus Areas</h4>
 
 <img src="https://img.shields.io/badge/Web%20Development-6366F1?style=for-the-badge" />
-<br><br>
+<br/><br/>
 <img src="https://img.shields.io/badge/Software%20Engineering-6366F1?style=for-the-badge" />
-<br><br>
+<br/><br/>
 <img src="https://img.shields.io/badge/Applied%20AI%20Solutions-6366F1?style=for-the-badge" />
 
 </td>
@@ -67,7 +74,6 @@
 </div>
 
 ---
-
 # 🛠️ Tech Stack
 
 <table>
