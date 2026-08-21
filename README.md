@@ -3,8 +3,7 @@
 <img src="https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=black_ice&border_radius=14" alt="dexxander's GitHub Stats" width="100%"/>
 
 </div>
----
-# 🌌 About Me
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer" />
