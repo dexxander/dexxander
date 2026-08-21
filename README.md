@@ -59,7 +59,7 @@
 </td>
 <td align="center" width="34%" valign="top">
 
-<h4 align="center">⚡ Focus Areas</h4>
+<h4 align="center">⚡️ Focus Areas</h4>
 
 <img src="https://img.shields.io/badge/Web%20Development-6366F1?style=for-the-badge" />
 <br/><br/>
@@ -74,7 +74,7 @@
 </div>
 
 ---
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <table>
 <tr>
@@ -136,8 +136,9 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 
 <div align="center">
 
-![dexxander's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=cyberpunk&compact=true&border_radius=14)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexxander&theme=holi)
 
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexxander&theme=holi) ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexxander&theme=holi)
 </div>
 
 # 👀 Profile Views
