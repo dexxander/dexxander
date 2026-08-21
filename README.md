@@ -3,6 +3,7 @@
 <img src="https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=black_ice&border_radius=14" alt="dexxander's GitHub Stats" width="100%"/>
 
 </div>
+---
 # 🌌 About Me
 
 <div align="center">
