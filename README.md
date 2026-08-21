@@ -136,7 +136,7 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 
 <div align="center">
 
-![dexxander's GitHub Stats](https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=cyberpunk&compact=true&border_radius=14)
+<img src="https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=cyberpunk&compact=true&border_radius=14" alt="dexxander's GitHub Stats" width="100%"/>
 
 </div>
 
