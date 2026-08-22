@@ -83,7 +83,7 @@ Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
 </tr>
 </table>
 
----
+
 
 # 👀 Profile Views
 
