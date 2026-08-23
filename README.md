@@ -25,7 +25,7 @@
 - 🚀 Building projects that combine innovation, technology, and real-world impact.
 - 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
 
----
+
 # 🛠️ Tech Stack
 
 <table>
