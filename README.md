@@ -1,92 +1,27 @@
-<div align="center">
-
-<img src="https://anya-github-stats.vercel.app/api/stats?username=dexxander&theme=black_ice&border_radius=14" alt="dexxander's GitHub Stats" width="100%"/>
-
-</div>
-
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Full-Stack+Developer" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-Student-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Developer-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-green?style=for-the-badge" />
-</div>
-
-<br>
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-### 👨‍💻 About Me
-- 🎓 Software Engineering student passionate about building intelligent software solutions.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
-- 🚀 Building projects that combine innovation, technology, and real-world impact.
-- 🌱 Currently exploring Deep Learning, Cloud Technologies, and AI-powered applications.
-
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages
+<h1 align="center">Hi 👋, I'm Dexter Oliver Robilin</h1>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,js,php,html,css,r" />
-</p>
-<p align="center">
-Python • C++ • Kotlin • JavaScript • PHP • HTML • CSS • R
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&width=520&lines=Full-stack%20developer%20%26%20open-source%20tinkerer;Always%20learning" alt="Typing SVG" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+- 🔭 I'm currently working on something fun
+- 🌱 I'm learning new things every day
+- 💬 Ask me about anything JavaScript
 
-### 🤖 AI & Data
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
-&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="48"/>
-</p>
-<p align="center">
-TensorFlow • PyTorch • OpenCV • MediaPipe • Computer Vision • Deep Learning
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="40" height="40" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📊 GitHub Stats
 
-### 🌐 Web & Backend
+  ![GitHub Stats](https://github-stats-card-peach.vercel.app/api/stats?username=dexxander&theme=sakura-dream&border_radius=14)
+  ![Top Languages](https://github-stats-card-peach.vercel.app/api/card?username=dexxander&card=langs&theme=sakura-dream)
+  ![GitHub Streak](https://github-stats-card-peach.vercel.app/api/card?username=dexxander&card=streak&theme=sakura-dream)
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,firebase,supabase" />
+  <img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20views&color=6EE7B7&style=for-the-badge" alt="Profile views" />
 </p>
-<p align="center">
-React • Node.js • Laravel • Firebase • Supabase
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Tools & Technologies
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio" />
-</p>
-<p align="center">
-Git • GitHub • VS Code • Visual Studio • Figma • OpenGL
-</p>
-
-</td>
-</tr>
-</table>
-
-
-
-# 👀 Profile Views
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dexxander&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</div>
